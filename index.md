@@ -15,7 +15,7 @@ allowfullscreen>
 </iframe>
 
 ## À propos
-Développé par Christian Dumontier, radioamateur concepteur du logiciel.
+Développé par Christian F6EYO, radioamateur concepteur du logiciel.
 
 ## Sécurité
 Windows peut afficher un avertissement lors de l’installation.  
