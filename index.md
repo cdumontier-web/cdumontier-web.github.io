@@ -2,7 +2,7 @@
 Un logiciel gratuit pour apprendre la télégraphie Morse.
 
 ## Télécharger
-👉 Le lien de téléchargement sera ajouté ici.
+👉 [Télécharger MorseTrainer](./MorseTrainer.zip)
 
 ## À propos
 Développé par Christian Dumontier, radioamateur concepteur du logiciel.
