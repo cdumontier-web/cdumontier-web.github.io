@@ -19,8 +19,7 @@ allowfullscreen>
 ## À propos
 Développé par Christian Dumontier, radioamateur concepteur du logiciel.
 Répertoires d'installation :
-C:\Users\<User>\AppData\Local\MorseTrainerBETA.
-C:\Users\<User>\AppData\Roaming\MorseTrainer.
+tous les fichiers sont placés dans C:\Users\<User>\AppData\Local\MorseTrainerBETA. Et uniquement le fichier des utilisateurs dans C:\Users\<User>\AppData\Roaming\MorseTrainer.
 
 ## Sécurité
 Windows peut afficher un avertissement lors de l’installation.  
