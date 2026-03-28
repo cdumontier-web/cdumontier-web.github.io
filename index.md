@@ -17,7 +17,7 @@ allowfullscreen>
 </iframe>
 
 ## À propos
-Développé par Christian Dumontier, radioamateur concepteur du logiciel.
+Développé par F6EYO Christian, radioamateur concepteur du logiciel.
 Répertoires d'installation :
 tous les fichiers sont placés dans C:\Users\<User>\AppData\Local\MorseTrainerBETA. Et uniquement le fichier des utilisateurs dans C:\Users\<User>\AppData\Roaming\MorseTrainer.
 
