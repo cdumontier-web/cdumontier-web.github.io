@@ -19,7 +19,7 @@ allowfullscreen>
 ## À propos
 Développé par F6EYO Christian, radioamateur concepteur du logiciel.
 Répertoires d'installation :
-tous les fichiers sont placés dans C:\Users\<User>\AppData\Local\MorseTrainerBETA. Et uniquement le fichier des utilisateurs dans C:\Users\<User>\AppData\Roaming\MorseTrainer.
+tous les fichiers sont installés dans C:\Users\<User>\AppData\Local\MorseTrainerBETA. Et uniquement le fichier des utilisateurs dans C:\Users\<User>\AppData\Roaming\MorseTrainer.
 
 ## Sécurité
 Windows peut afficher un avertissement lors de l’installation.  
