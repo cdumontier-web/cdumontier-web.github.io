@@ -22,15 +22,15 @@ Oui, tout fonctionne sans connexion Internet.
 Non, uniquement sous Windows pour le moment.
 
 ## Commen résoudre cette erreur au chargement de Morse trainer F6EYO ?
-erreur au lancement :
-Traceback (most recent call last):
-File "morse_trainer.py", line 910, in <module>
-File "morse_trainer.py", line 907, in generer_bip_long
-File "pygame\sndarray.py", line 92, in make_sound
-ValueError: Array depth must match number of mixer channels
-                        -----------
+- erreur au lancement :
+- Traceback (most recent call last):
+- File "morse_trainer.py", line 910, in <module>
+- File "morse_trainer.py", line 907, in generer_bip_long
+- File "pygame\sndarray.py", line 92, in make_sound
+- ValueError: Array depth must match number of mixer channels
+
 Indications :
- La plus part du temps c’est la configuration audio de l’ordinateur qui pose problème.
+La plus part du temps c’est la configuration audio de l’ordinateur qui pose problème.
 Et cette erreur PyGame est très typique d’un cas précis.
 🎯 Cause la plus fréquente : le mixer PyGame démarre en MONO sur certains PC.
 🟦 Comment corriger ce PC en particulier ?
