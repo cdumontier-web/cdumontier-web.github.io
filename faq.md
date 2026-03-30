@@ -1,3 +1,5 @@
+[Retour à l'accueil](index.md)
+
 # FAQ — MorseTrainer
 
 ## Le logiciel est-il gratuit ?
