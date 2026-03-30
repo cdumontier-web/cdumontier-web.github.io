@@ -16,6 +16,9 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
+## Groupe privé facebook
+https://www.facebook.com/groups/1487764739359513/
+
 ## À propos
 Développé par F6EYO Christian, radioamateur concepteur du logiciel.
 
