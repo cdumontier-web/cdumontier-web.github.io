@@ -55,13 +55,9 @@ Voici les solutions dans l’ordre, de la plus simple à la plus radicale.
 👉 Beaucoup de PC basculent sur un “périphérique fantôme” (ex : écran HDMI).
 
 ✅ 2. Désactiver les périphériques audio inutiles Toujours dans les paramètres audio → Gérer les périphériques audio :
-
-- désactiver les sorties HDMI inutiles
- 
-- désactiver les casques Bluetooth non connectés
- 
+- désactiver les sorties HDMI inutiles 
+- désactiver les casques Bluetooth non connectés 
 - désactiver les drivers virtuels (VB-Audio, etc.), PyGame peut se tromper de périphérique si plusieurs sont actifs.
-- 
 ✅ 3. Vérifier que le périphérique n’est pas forcé en mono
 
 Windows permet de forcer la sortie en mono :
@@ -72,29 +68,21 @@ Si cette option est activée, PyGame démarre en mono.
 
 ✅ 4. Réinstaller le driver audio
 Sur certains PC, le driver Realtek ou USB est corrompu.
-
-- Gestionnaire de périphériques
- 
-- “Contrôleurs audio, vidéo et jeu”
- 
-- Clic droit → Désinstaller
- 
+- Gestionnaire de périphériques 
+- “Contrôleurs audio, vidéo et jeu” 
+- Clic droit → Désinstaller 
 - Redémarrer → Windows réinstalle automatiquement
 
 🟦 5. Cas particulier : casque USB ou Bluetooth
 
 Certains casques USB déclarent 1 seul canal.
-
 Certains Bluetooth déclarent 2 canaux mais en mode “Hands-Free” (mono compressé).
 
 Solution :
 
 - déconnecter le casque
-
 - relancer ton logiciel
-
 - vérifier si l’erreur disparaît
-
 Si oui → le casque est la cause.
 
 ## Autre ressage d'erreur au chargement de Morse trainer F6EYO ?
