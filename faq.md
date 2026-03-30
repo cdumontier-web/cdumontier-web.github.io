@@ -24,7 +24,7 @@ Non, uniquement sous Windows pour le moment.
 ## Commen résoudre cette erreur au chargement de Morse trainer F6EYO ?
 
 - erreur au lancement :
-- 
+ 
 - Traceback (most recent call last):
 
 - File "morse_trainer.py", line 910, in <module>
