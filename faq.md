@@ -101,3 +101,7 @@ Solution :
 - vérifier si l’erreur disparaît
 
 Si oui → le casque est la cause.
+
+
+[Retour à l'accueil](index.md)
+
