@@ -88,9 +88,9 @@ Si oui → le casque est la cause.
 ## Autre ressage d'erreur au chargement de Morse trainer F6EYO ?
 
 Traceback (most recent call last):
-  File "morse_trainer.py", line 910, in <module>
-  File "morse_trainer.py", line 907, in generer_bip_long
-  File "pygame\sndarray.py", line 92, in make_sound
+-  File "morse_trainer.py", line 910, in <module>
+-  File "morse_trainer.py", line 907, in generer_bip_long
+-  File "pygame\sndarray.py", line 92, in make_sound
 ValueError: Array depth must match number of mixer channels
 
 
