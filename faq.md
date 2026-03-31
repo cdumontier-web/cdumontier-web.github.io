@@ -1,6 +1,6 @@
 [Retour à l'accueil](index.md)
 
-# FAQ — MorseTrainer F6EYO ver. Béta 1.0
+# FAQ — MorseTrainer F6EYO ver. BETA 1.0
 
 ## Le logiciel est-il gratuit ?
 Oui, il est entièrement gratuit.
