@@ -1,9 +1,9 @@
 [Retour à l'accueil](index.md)
 
-# FAQ — MorseTrainer
+# FAQ — MorseTrainer F6EYO ver. Béta 1.0
 
 ## Le logiciel est-il gratuit ?
-Oui, MorseTrainer est entièrement gratuit.
+Oui, il est entièrement gratuit.
 
 ## Pourquoi Windows affiche un avertissement à l’installation ?
 Parce que le logiciel n’est pas signé avec un certificat payant.  
@@ -20,7 +20,7 @@ Il suffit d'aller dans panneau de configuration puis de cliquer sur désinstalla
 ## Le logiciel fonctionne-t-il hors ligne ?
 Oui, tout fonctionne sans connexion Internet.
 
-## MorseTrainer fonctionne-t-il sous Linux ou macOS ?
+## Morse Trainer F6EYO fonctionne-t-il sous Linux ou macOS ?
 Non, uniquement sous Windows pour le moment.
 
 ## Commen résoudre cette erreur au chargement de Morse trainer F6EYO ?
