@@ -8,8 +8,7 @@ Les améliorations principlales sont :
 -L'affichage des résultats des révisions sous la forme de groupes de 5 caractères.
 - La possibilité de faire un copier / coller dans la fenêtre des dictées.
 
-Bientôt disponible avant fin avril.
-
+Bientôt disponible. Avant fin avril.
 
 # FAQ — MorseTrainer F6EYO ver. BETA 1.0
 
