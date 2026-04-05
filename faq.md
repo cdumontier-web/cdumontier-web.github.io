@@ -94,7 +94,7 @@ Solution :
 - vérifier si l’erreur disparaît
 Si oui → le casque est la cause.
 
-## Autre ressage d'erreur au chargement de Morse trainer F6EYO ?
+## Autre message d'erreur au chargement de Morse trainer F6EYO ?
 Traceback (most recent call last):
 -  File "morse_trainer.py", line 910, in <module>
 -  File "morse_trainer.py", line 907, in generer_bip_long
