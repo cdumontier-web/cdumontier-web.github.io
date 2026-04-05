@@ -4,7 +4,7 @@
 
 ## Evolution de Morse trainer F6EYO
 La révision 1.1 est en cours de réalisation. 
-Les principlales améliorations sont :
+Les améliorations sont :
 - Réduction de la latence entre le caractère entendu et la frappe au clavier.
 - Le choix (option de menu "Paramètres") entre 5 et 18 du nombre de séries en lieu et place des 5 séries (soit 25 caractères) programmer en dur.
 -L'affichage des résultats des révisions sous la forme de groupes de 5 caractères.
