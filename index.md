@@ -24,7 +24,7 @@ Rejoignez la communauté des utilisateurs :
 ## À propos
 Développé par F6EYO Christian, radioamateur concepteur du logiciel.
 
-[Consulter la FAQ](faq.md)
+👉 [Consulter la FAQ](faq.md)
 
 ## Sécurité
 Windows peut afficher un avertissement lors de l’installation.  
