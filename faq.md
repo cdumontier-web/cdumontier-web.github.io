@@ -1,6 +1,6 @@
 [Retour à l'accueil](index.md)
 
-# FAQ — MorseTrainer F6EYO ver. BETA 1.0
+# FAQ — MorseTrainer F6EYO ver. BETA
 
 ## Evolution de Morse trainer F6EYO
 La révision 1.1 est en cours de réalisation. 
