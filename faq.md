@@ -26,7 +26,8 @@ C:\Users\<User>\AppData\Local\MorseTrainerBETA
 C:\Users\<User>\AppData\Roaming\MorseTrainer
 
 ## Comment désinstaller MorseTrainer ?
-Il suffit d'aller dans panneau de configuration puis de cliquer sur désinstallation de programme, de sélectionner dans la liste Morse trainer BETA ver. x.x puis der le désinstaller comme n'imoorte quel autre programme. 
+Il suffit d'aller dans panneau de configuration puis de cliquer sur désinstallation de programme, de sélectionner dans la liste Morse trainer BETA ver. x.x puis de le désinstaller comme n'imoorte quel autre programme. 
+
 ## Le logiciel fonctionne-t-il hors ligne ?
 Oui, tout fonctionne sans connexion Internet.
 
