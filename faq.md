@@ -2,15 +2,17 @@
 
 # FAQ — MorseTrainer F6EYO ver. BETA
 
-## Evolution de Morse trainer F6EYO
-La révision 1.1 est en cours de réalisation. 
+## Morse trainer F6EYO 1.1
 Les améliorations sont :
-- La réduction de la latence entre le caractère entendu et la frappe au clavier.
-- Le choix (option de menu "Paramètres") entre 5 et 18 du nombre de séries en lieu et place des 5 séries (soit 25 caractères) programmer en dur.
--L'affichage des résultats des révisions sous la forme de groupes de 5 caractères.
-- La possibilité de faire un copier / coller dans la fenêtre des dictées.
 
-Bientôt disponible. Avant fin avril.
+La réduction de la latence entre le caractère sonore et la frappe au clavier, ce qui améliore la limpidité de la saisie.
+
+Le choix, dans le menu Paramètres, du nombre de séries de 5 caractères (de 5 à 18), soit de 25 à 90 caractères au total.
+(La version 1.0 en comptait 5, soit 25 caractères.)
+
+L’affichage des résultats des révisions sous forme de séries de 5 caractères.
+
+La possibilité d’effectuer un copier/coller dans la fenêtre des dictées.
 
 ## Le logiciel est-il gratuit ?
 Oui, il est entièrement gratuit.
