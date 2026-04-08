@@ -1,32 +1,42 @@
 # MorseTrainer
 Un logiciel gratuit pour apprendre la télégraphie Morse.
 
-## Télécharger
-👉 [Télécharger MorseTrainer](https://github.com/cdumontier-web/cdumontier-web.github.io/releases/download/v1.0.0/MorseTrainerSetup_BETA.zip)
+---
+
+## 📥 Télécharger la dernière version (BETA 1.1)
+
+👉 [Télécharger MorseTrainer BETA 1.1](https://github.com/cdumontier-web/cdumontier-web.github.io/releases/download/v1.1.0/MorseTrainer-1.1-BETA-Setup.zip)
 
 ![Téléchargements](https://img.shields.io/github/downloads/cdumontier-web/cdumontier-web.github.io/total)
 
-## Vidéo de présentation
+---
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/Z2WMJO8enlQ"
-title="Présentation de MorseTrainer"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen>
-</iframe>
+## 🎬 Vidéo de présentation
+
+[![Présentation de MorseTrainer](https://img.youtube.com/vi/Z2WMJO8enlQ/0.jpg)](https://www.youtube.com/watch?v=Z2WMJO8enlQ)
+
+*(Cliquez sur l’image pour lancer la vidéo)*
+
+---
 
 ## 👥 Groupe privé Facebook
+
 Rejoignez la communauté des utilisateurs :
 
 👉 [Groupe privé Facebook](https://www.facebook.com/groups/1487764739359513/)
 
-## À propos
-Développé par F6EYO Christian, radioamateur concepteur du logiciel.
+---
+
+## ℹ️ À propos
+
+Développé par **F6EYO Christian**, radioamateur concepteur du logiciel.
 
 👉 [Consulter la FAQ](faq.md)
 
-## Sécurité
+---
+
+## 🔒 Sécurité
+
 Windows peut afficher un avertissement lors de l’installation.  
 C’est normal : je ne possède pas de certificat de signature payant.  
 Le logiciel est sûr et ne contient aucun code malveillant.
