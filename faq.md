@@ -5,18 +5,18 @@
 ## A quelle fréquence il faut s'exercer ?
 Pour la fréquence d’entraînement, le plus efficace est :
 
-🔹 Un peu tous les jours
+🔹 Un peu tous les jours.
 5 à 10 minutes suffisent largement.  
 La CW fonctionne comme un réflexe auditif : la régularité compte plus que la durée.
 
 🔹 Éviter les longues séances.
 Au‑delà de 15 minutes, la fatigue auditive arrive et on progresse moins vite.
 
-🔹 3 à 6 jours par semaine
+🔹 3 à 6 jours par semaine.
 L’idéal est de garder un rythme léger mais constant.  
 Même 5 minutes par jour donnent de meilleurs résultats qu’une heure le week‑end.
 
-🔹 Objectif : rester dans le plaisir
+🔹 Objectif : rester dans le plaisir.
 Si vous sentez que vous forcez, arrêtez.  
 Si vous vous amusez, continuez.  
 Le cerveau apprend mieux quand il n’est pas sous pression.
