@@ -9,7 +9,7 @@ Pour la fréquence d’entraînement, le plus efficace est :
 5 à 10 minutes suffisent largement.  
 La CW fonctionne comme un réflexe auditif : la régularité compte plus que la durée.
 
-🔹 Éviter les longues séances
+🔹 Éviter les longues séances.
 Au‑delà de 15 minutes, la fatigue auditive arrive et on progresse moins vite.
 
 🔹 3 à 6 jours par semaine
