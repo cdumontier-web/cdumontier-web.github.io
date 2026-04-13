@@ -1,6 +1,8 @@
 # MorseTrainer
 Un logiciel gratuit pour apprendre la télégraphie Morse.
 
+![Latest Release](https://img.shields.io/github/v/release/cdumontier-web/Morse-Trainer?include_prereleases)
+
 ---
 
 ## 📥 Télécharger la dernière version (BETA 1.1)
@@ -40,4 +42,5 @@ Développé par **F6EYO Christian**, radioamateur concepteur du logiciel.
 Windows peut afficher un avertissement lors de l’installation.  
 C’est normal : je ne possède pas de certificat de signature payant.  
 Le logiciel est sûr et ne contient aucun code malveillant.
+
 
