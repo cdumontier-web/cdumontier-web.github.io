@@ -10,6 +10,7 @@ Un logiciel gratuit pour apprendre la télégraphie Morse.
 👉 [Télécharger MorseTrainer BETA 1.1 (fichier .zip)](https://github.com/cdumontier-web/Morse-Trainer/releases/download/v1.1/morse_trainer.zip)
 
 ![Téléchargements (réels)](https://img.shields.io/badge/téléchargements-104-blue)
+![Téléchargements automatiques](https://img.shields.io/github/downloads/cdumontier-web/Morse-Trainer/total?label=downloads%20(auto))
 
 ---
 
